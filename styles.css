@@ -11,6 +11,7 @@ h1 {
   font-size: 300px;
   text-align: center;
   text-decoration: underline;
+  color: black;
 }
 
 .grid-container {
@@ -31,4 +32,12 @@ h1 {
 
 .grid-item {
   font-size: 50px;
+}
+
+.grid-item:hover {
+  background-color: black;
+}
+
+.sixteen-button {
+  background-color: aqua;
 }
